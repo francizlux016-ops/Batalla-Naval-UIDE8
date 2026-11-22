@@ -47,7 +47,7 @@ El juego muestra un **instructivo** al colocar los barcos y en la opción 4 del 
 Este proyecto se distribuye bajo la licencia **MIT** (ver archivo `LICENSE`).
 
 ## Declaración de autoría y créditos
-- **Autoría:** el diseño (Fase 1 y 2), la arquitectura y la integración del proyecto son del equipo: Francis Simba, Joaquín Haro y Dylan Andy.
+- **Autoría:** el diseño (Fase 1 y 2), la arquitectura y la integración del proyecto son del equipo: Francis Simba, Joaquín Haro y Dylan Andi.
 - **Librerías de terceros:** ninguna. Solo se usa la biblioteca estándar de Python (`socket`), distribuida bajo la licencia de Python Software Foundation.
 - **Uso de IA:** se utilizó **Claude (Anthropic)** como asistente y asesor técnico durante esta fase.
 - **Código de terceros / recursos visuales:** no se copió código de otras fuentes ni se usaron imágenes externas en el código. El logo de la UIDE aparece solo en el informe académico.
